@@ -33,7 +33,7 @@ cd frontend && cp .env.example .env && npm install && npm run dev
 
 ## Video
 
-**Video link:** _TODO — add link after recording (30–45 min)_
+**Video link:** https://drive.google.com/file/d/10DjTLTWxNF2-jeUmYWx_1HenFqarN6uo/view?usp=sharing
 
 ## Notes for reviewers
 
